@@ -8,6 +8,11 @@ A small, dependency-free Python library of graph algorithms. It currently provid
 | `traversal` | `bfs(graph, source)` | Breadth-first traversal order from `source` |
 | `traversal` | `dfs(graph, source)` | Depth-first traversal order from `source` |
 
+## Links
+
+- GitHub repository: https://github.com/AdenPotato/graphs_adenpotato
+- PyPI package: https://pypi.org/project/graphs-adenpotato/
+
 ## Installation
 
 Install from PyPI (Python 3.8+):
