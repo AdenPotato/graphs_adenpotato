@@ -10,7 +10,13 @@ A small, dependency-free Python library of graph algorithms. It currently provid
 
 ## Installation
 
-Install straight from GitHub with pip (Python 3.8+):
+Install from PyPI (Python 3.8+):
+
+```
+pip install graphs_adenpotato
+```
+
+Or install the latest code from GitHub:
 
 ```
 pip install git+https://github.com/AdenPotato/graphs_adenpotato.git
